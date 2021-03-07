@@ -1,0 +1,20 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../:\Users\Данияр\IdeaProjects\medcenter\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+/.idea/libraries/
+encondings.xml
+vcs.xml
+dataSources.xml
+misc.xml
+modules.xml
+project-template.xml
+uiDesigner.xml
+workspace.xml
+dataSources.local.xml
+vcs.xml
+
